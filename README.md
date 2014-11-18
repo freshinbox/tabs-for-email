@@ -1,4 +1,4 @@
-# Interactive Email Tabs for Email
+# Interactive Tabs for Email
 
 Code to create Tabs that work in Mobile and Webmail Clients.
 
